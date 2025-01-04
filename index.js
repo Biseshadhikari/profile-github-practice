@@ -5,8 +5,15 @@ const students=  [
         'collage':"mmamc"
     },
     {
+
         "name":"Ashwin Khatiwada",
         'collage':"nihareeeka"
     },
     
 ]
+
+        "name":"Ayush Ghimire",
+        'collage':"Nihareeka"
+    },
+]
+
