@@ -5,4 +5,8 @@ const students=  [
         'collage':"mmamc"
     },
     
+    {
+        "name":"monsoon basnet",
+        'collage':"Nihareeka"
+    },
 ]
