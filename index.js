@@ -13,7 +13,14 @@ const students=  [
 ]
 
     {
+
+        "name":"aarti mehta",
+        'collage':"nihareeka"
+    },
+]
+
         "name":"Ayush Ghimire",
         'collage':"Nihareeka"
     },
 ]
+
